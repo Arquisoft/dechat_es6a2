@@ -7,7 +7,7 @@ image:https://img.shields.io/badge/documentation-AsciiDoc-FF69A4.svg[link="https
 image:https://img.shields.io/badge/version-1.1.0-green.svg[link="https://arquisoft.github.io/dechat_es6a2/"]
 
 == App Webpage
-You can give it a try at https://arquisoft.github.io/dechat_es6a2/ (WIP)
+You can give it a try at https://arquisoft.github.io/dechat_es6a2/ (OBSOLETE)
 
 == Authors
 
